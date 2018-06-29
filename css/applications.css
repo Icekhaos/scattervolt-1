@@ -159,11 +159,11 @@ body, .wb_sbg {
   z-index: 260;
 }
 
-#wb_element_instance34 p:last-child {
+#footerText p:last-child {
   margin-bottom: 0;
 }
 
-#wb_element_instance34 {
+#footerText {
   top: -25px;
   left: 10px;
   min-width: 190px;
@@ -431,7 +431,7 @@ body, .wb_sbg {
   z-index: 9000;
 }
 
-#footer {
+#footerJs {
   top: 64px;
   left: 0px;
   display: block;
@@ -510,7 +510,7 @@ body, .wb_sbg {
     display: block;
   }
 
-  #wb_element_instance34 {
+  #footerText {
     top: 20px;
     left: 10px;
     min-width: 250px;
@@ -621,7 +621,7 @@ body, .wb_sbg {
     display: block;
   }
 
-  #footer {
+  #footerJs {
     top: 64px;
     left: 0px;
     display: block;
@@ -702,7 +702,7 @@ body, .wb_sbg {
     display: block;
   }
 
-  #wb_element_instance34 {
+  #footerText {
     top: 20px;
     left: 11px;
     min-width: 410px;
@@ -813,7 +813,7 @@ body, .wb_sbg {
     display: block;
   }
 
-  #footer {
+  #footerJs {
     top: 64px;
     left: 0px;
     display: block;
@@ -898,7 +898,7 @@ body, .wb_sbg {
     display: block;
   }
 
-  #wb_element_instance34 {
+  #footerText {
     top: 20px;
     left: 10px;
     min-width: 450px;
@@ -1009,7 +1009,7 @@ body, .wb_sbg {
     display: block;
   }
 
-  #footer {
+  #footerJs {
     top: 64px;
     left: 0px;
     display: block;
